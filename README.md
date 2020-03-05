@@ -2,6 +2,7 @@
 This is an Automated Testing approach implemented in Prolog for JavaScript.
 
 ### How to use:
+Locate the source code inside the "Main" folder.
 Load entry_point.pl into swipl
 Type the query "program(Bound)" where Bound is the depth of the ast. 
 *Note: Nothing will be printed on the cnosole.
